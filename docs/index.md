@@ -20,3 +20,9 @@ Welcome to the Azure Quantum Workshop. The page that you are currently reading c
 - [Challenge 5: Implement Grover's Algorithm in Q#](challenge-qc-05.md)
 
 ### Quantum Inspired Optimization
+
+## Further Reading
+
+- [Quantum Development Kit Samples](https://github.com/Microsoft/Quantum)
+- [Code Samples for Q#](https://docs.microsoft.com/samples/browse/?languages=qsharp)
+- [Azure Quantum Katas](https://github.com/microsoft/QuantumKatas)

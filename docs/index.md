@@ -23,8 +23,8 @@ Welcome to the Azure Quantum Workshop. The page that you are currently reading c
 
 - [Challenge 1: Submit a given cost function to Azure Quantum](challenge-qio-01.md)
 - [Challenge 2: Submit your first cost function to Azure Quantum](challenge-qio-02.md)
-- [Challenge 3: Submit your first cost function to Azure Quantum](challenge-qio-03.md)
-- [Challenge 4: Submit your first cost function to Azure Quantum](challenge-qio-04.md)
+- [Challenge 3: Solve your first optimization challenge](challenge-qio-03.md)
+- [Challenge 4: Work with the Job Scheduling solution](challenge-qio-04.md)
 
 ## Further Reading
 

@@ -1,15 +1,15 @@
-# Challenge 3 (QIO)
+# Challenge 4 (QIO)
 
 ## Work with the Job Scheduling solution
 
 ### Log in to the Azure Portal
 
-1. Call the URL: https://portal.azure.com/.
+1. Call the URL: [https://portal.azure.com/].
 
 ### Navigate to the Notebook UI of your Quantum Workspace
 
 1. Navigate to your Quantum Workspace.
-1. Select the menu item Notebooks.
+1. Select the menu item **Notebooks**.
 
 ### Import and run the "Job Scheduling" sample notebook
 

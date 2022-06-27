@@ -4,7 +4,7 @@
 
 ### Log in to the Azure Portal
 
-1. Call the URL: https://portal.azure.com/.
+1. Call the URL: [https://portal.azure.com/].
 
 ### Navigate to the Notebook UI of your Quantum Workspace
 

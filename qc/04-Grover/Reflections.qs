@@ -10,23 +10,26 @@ namespace Grover {
     open Microsoft.Quantum.Measurement;
 
     /// # Summary
-    /// Reflects about the basis state marked by alternating zeros and ones.
+    /// Reflects about the basis state marked by a given index.
     /// This operation defines what input we are trying to find in the main
     /// search.
-    operation ReflectAboutMarked(inputQubits : Qubit[]) : Unit {
-        Message("Reflecting about marked state...");
+    ///
+    /// # Input
+    /// ## idxMarked
+    /// The index of the marked item to be reflected about.
+    /// ## inputQubits
+    /// The register whose state is to be reflected about the marked input.
+    operation ReflectAboutMarked(idxMarked : Int, inputQubits : Qubit[]) : Unit {
         use outputQubit = Qubit();
         within {
             // We initialize the outputQubit to (|0⟩ - |1⟩) / √2,
             // so that toggling it results in a (-1) phase.
             X(outputQubit);
             H(outputQubit);
-            // Flip the outputQubit for marked states.
-            // Here, we get the state with alternating 0s and 1s by using
-            // the X instruction on every other qubit.
-            ApplyToEachA(X, inputQubits[...2...]);
         } apply {
-            Controlled X(inputQubits, outputQubit);
+            // Flip the outputQubit for marked states.
+            // Here, we get the state given by the index idxMarked.
+            (ControlledOnInt(idxMarked, X))(inputQubits, outputQubit);
         }
     }
 

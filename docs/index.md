@@ -12,6 +12,7 @@
 ### Quantum Computing
 
 - [Challenge 1: Run your first Q# quantum program](challenge-qc-01.md)
-- [Challenge 2: Run your first Q# quantum program](challenge-qc-01.md)
+- [Challenge 2: Create a quantum random bit generator](challenge-qc-02.md)
+- [Challenge 3: Create a quantum random number generator](challenge-qc-03.md)
 
 ### Quantum Inspired Optimization

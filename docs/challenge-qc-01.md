@@ -13,6 +13,6 @@
 ### Run the „Hello world“-program
 
 1. Navigate into the directory `~\qc\01-HelloWorld\`.
-1. Open the **Program.qs** file and have a look at its content.
+1. Open the `Program.qs` file and have a look at its content.
 1. Run `dotnet run`.
-1. The program should print `Hello quantum world!`
+1. The program should print `Hello quantum world!`.

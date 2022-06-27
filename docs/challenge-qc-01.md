@@ -1,4 +1,4 @@
-# Challenge 1
+# Challenge 1 (QC)
 
 ## Run your first Q# quantum program
 

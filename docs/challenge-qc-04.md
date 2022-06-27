@@ -1,4 +1,4 @@
-# Challenge 4
+# Challenge 4 (QC)
 
 ## Run the random number app on the resource estimator
 

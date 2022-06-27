@@ -21,6 +21,8 @@ Welcome to the Azure Quantum Workshop. The page that you are currently reading c
 
 ### Quantum Inspired Optimization
 
+- [Challenge 1: Submit a given cost function to Azure Quantum]
+
 ## Further Reading
 
 - [Quantum Development Kit Samples](https://github.com/Microsoft/Quantum)

@@ -1,4 +1,4 @@
-# Challenge 3
+# Challenge 3 (QC)
 
 ## Create a quantum random number generator
 

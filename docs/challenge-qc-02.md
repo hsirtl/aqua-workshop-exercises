@@ -1,4 +1,4 @@
-# Challenge 2
+# Challenge 2 (QC)
 
 ## Create a quantum random bit generator
 

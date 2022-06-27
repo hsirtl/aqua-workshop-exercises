@@ -15,14 +15,14 @@
 1. The estimator should generate an output similar to the following
 
 ```azurecli
-Metric	Sum	Max
-CNOT	1000	1000
+Metric	        Sum	    Max
+CNOT	        1000	1000
 QubitClifford	1000	1000
-R	0	0
-Measure	4002	4002
-T	0	0
-Depth	0	0
-Width	2	2
-QubitCount	2	2
-BorrowedWidth	0	0
+R	            0	    0
+Measure	        4002	4002
+T	            0	    0
+Depth	        0	    0
+Width	        2	    2
+QubitCount	    2	    2
+BorrowedWidth	0	    0
 ```

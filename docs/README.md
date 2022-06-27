@@ -1,4 +1,4 @@
-# Azure Quantum Workshop Exercises
+# My Azure Quantum Workshop Exercises
 
 ## Prerequisites
 

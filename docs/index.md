@@ -21,7 +21,10 @@ Welcome to the Azure Quantum Workshop. The page that you are currently reading c
 
 ### Quantum Inspired Optimization
 
-- [Challenge 1: Submit a given cost function to Azure Quantum]
+- [Challenge 1: Submit a given cost function to Azure Quantum](challenge-qio-01.md)
+- [Challenge 2: Submit your first cost function to Azure Quantum](challenge-qio-02.md)
+- [Challenge 3: Submit your first cost function to Azure Quantum](challenge-qio-03.md)
+- [Challenge 4: Submit your first cost function to Azure Quantum](challenge-qio-04.md)
 
 ## Further Reading
 

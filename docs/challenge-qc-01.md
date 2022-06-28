@@ -4,11 +4,11 @@
 
 ### Open the samples in VS Code
 
-1. From a command prompt/shell run code <samples-dir>.
+1. From a command prompt/shell run code \<samples-dir\>.
 
 ### Open a Terminal
 
-1. From the View menu, select Terminal or Integrated Terminal.
+1. From the View menu, select **Terminal** or **Integrated Terminal**.
 
 ### Run the „Hello world“-program
 

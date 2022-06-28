@@ -8,7 +8,7 @@
 
 ### Open a Terminal
 
-1. From the View menu, select **Terminal** or **Integrated Terminal**.
+1. From the **View** menu, select **Terminal** or **Integrated Terminal**.
 
 ### Run the „Hello world“-program
 

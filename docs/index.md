@@ -19,7 +19,8 @@ Welcome to the Azure Quantum Workshop. The page that you are currently reading c
 - [Challenge 2: Create a quantum random bit generator](challenge-qc-02.md)
 - [Challenge 3: Create a quantum random number generator](challenge-qc-03.md)
 - [Challenge 4: Run the random number app on the resource estimator](challenge-qc-04.md)
-- [Challenge 5: Implement Grover's Algorithm in Q#](challenge-qc-05.md)
+- [Challenge 5: Run the random number app on quantum hardware](challenge-qc-05.md)
+- [Challenge 6: Implement Grover's Algorithm in Q#](challenge-qc-06.md)
 
 ### Quantum Inspired Optimization
 
